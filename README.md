@@ -1,1 +1,1 @@
-file ini berisi data-data latihan menjalankan mySQL
+repo ini berisi file latihan data management menggunakan SQLite
